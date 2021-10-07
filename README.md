@@ -20,6 +20,10 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 2.Linear Regression
 
+3.Random Forest
+
+4.Decision Tree
+
 ## Result:
 
 Get 0.9963 score on train set and 0.9890 score on test set by using XGboost model.
